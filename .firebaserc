@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "beturin-bed-and-breakfast"
+  },
+  "targets": {
+    "beturin-bed-and-breakfast": {
+      "hosting": {
+        "reservation-app": [
+          "reservation-beturin"
+        ]
+      }
+    }
+  }
+}
